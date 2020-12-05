@@ -1,4 +1,4 @@
-# Tutorial for biosignal analysis
+# Biosignal analysis tutorial
 
 [Vietnamese below]
 
