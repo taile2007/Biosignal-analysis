@@ -1,4 +1,6 @@
-# Module 
+# Module 1 cho project Biosignal analysis
+# Tác giả: Lê Ngọc Khả Nhi
+# Version: 19/12/2020
 
 from datetime import datetime, timedelta
 
