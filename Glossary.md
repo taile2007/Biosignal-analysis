@@ -329,6 +329,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | module                            | mô-đun                          |                                              |
 | moment                            | mô-men                          |                                              |
 | momentum                          | động lượng                      |                                              |
+| Morphology                        | Hình thái học                   |                                              |
 | multi-armed bandit                | máy đánh bạc đa cần             | [https://git.io/Jfe1v](https://git.io/Jfe1v) |
 | multi-class classification        | phân loại đa lớp                | [https://git.io/Jvoj0](https://git.io/Jvoj0) |
 | multi-head attention layer        | tầng tập trung đa đầu           |                                              |
@@ -383,6 +384,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 |-------------------------------------|------------------------------|----------------------------------------------|
 | p-value                             | trị số p                     | [https://git.io/Jvoja](https://git.io/Jvoja) |
 | padding                             | đệm                          | [https://git.io/Jfe1I](https://git.io/Jfe1I) |
+| Pathology                           | bệnh lý                      |                                              |
 | partition function                  | hàm phân hoạch               | [https://git.io/JvQxE](https://git.io/JvQxE) |
 | pattern recognition                 | nhận dạng mẫu                | [https://git.io/JvKeL](https://git.io/JvKeL) |
 | penalty                             | lượng phạt                   | [https://git.io/JvQAP](https://git.io/JvQAP) |
@@ -395,8 +397,9 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | pixel (unit of measurement)         | pixel (đơn vị đo)            |                                              |
 | plateau (noun)                      | vùng nằm ngang               |                                              |
 | plateau (verb)                      | nằm ngang                    |                                              |
-| plethysmogram                       | biến đổi thế tích đồ         |                                              |
-| photoplethysmography (PPG)          | quang biến tích ký           |                                              |
+| Plethysmogram                       | biến đổi thế tích đồ         |                                              |
+| Photoplethysmography (PPG)          | quang biến tích ký           |                                              |
+| Physiology                          | Sinh lý học                  |                                              |
 | policy (in reinforcement learning)  | chính sách                   | [https://git.io/Jvoj9](https://git.io/Jvoj9) |
 | pooling                             | gộp                          | [https://git.io/Jfe1I](https://git.io/Jfe1I) |
 | population                          | tổng thể                     | [https://git.io/Jvoja](https://git.io/Jvoja) |
