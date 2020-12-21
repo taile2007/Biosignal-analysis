@@ -240,7 +240,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | (statistical) inference                     | suy luận (thống kê)          | [https://git.io/JJVT2](https://git.io/JJVT2) |
 | ill-conditioned                             | (có) điều kiện xấu           |                                              |
 | image segmentation                          | phân vùng ảnh                |                                              |
-| imppedance-plesthysmography (IPG)           | kháng biến tích ký           | [https://git.io/JvohG](https://git.io/JvohG) |
+| impedance-plesthysmography (IPG)           | kháng biến tích ký           | [https://git.io/JvohG](https://git.io/JvohG) |
 | implement                                   | lập trình                    | [https://git.io/JvohG](https://git.io/JvohG) |
 | implementation                              | cách lập trình               | [https://git.io/JvohG](https://git.io/JvohG) |
 | implicit feedback                           | phản hồi gián tiếp           |                                              |
