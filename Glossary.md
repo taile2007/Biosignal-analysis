@@ -146,6 +146,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | English                             | Tiếng Việt                  | Thảo luận tại                                |
 |-------------------------------------|-----------------------------|----------------------------------------------|
 | early stopping                      | dừng sớm                    |                                              |
+| Electrocardiogram(ECG or EKG)       | Điện tâm đồ                 |                                              | 
 | edge (in computer vision)           | biên                        | [https://git.io/JfGiw](https://git.io/JfGiw) |
 | edge detector                       | bộ phát hiện biên           | [https://git.io/JfGiw](https://git.io/JfGiw) |
 | effect size                         | hệ số ảnh hưởng             | [https://git.io/Jvoja](https://git.io/Jvoja) |
@@ -239,6 +240,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | (statistical) inference                     | suy luận (thống kê)          | [https://git.io/JJVT2](https://git.io/JJVT2) |
 | ill-conditioned                             | (có) điều kiện xấu           |                                              |
 | image segmentation                          | phân vùng ảnh                |                                              |
+| imppedance-plesthysmography (IPG)           | kháng biến tích ký           | [https://git.io/JvohG](https://git.io/JvohG) |
 | implement                                   | lập trình                    | [https://git.io/JvohG](https://git.io/JvohG) |
 | implementation                              | cách lập trình               | [https://git.io/JvohG](https://git.io/JvohG) |
 | implicit feedback                           | phản hồi gián tiếp           |                                              |
@@ -393,6 +395,8 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | pixel (unit of measurement)         | pixel (đơn vị đo)            |                                              |
 | plateau (noun)                      | vùng nằm ngang               |                                              |
 | plateau (verb)                      | nằm ngang                    |                                              |
+| plethysmogram                       | biến đổi thế tích đồ         |                                              |
+| photoplethysmography (PPG)          | quang biến tích ký           |                                              |
 | policy (in reinforcement learning)  | chính sách                   | [https://git.io/Jvoj9](https://git.io/Jvoj9) |
 | pooling                             | gộp                          | [https://git.io/Jfe1I](https://git.io/Jfe1I) |
 | population                          | tổng thể                     | [https://git.io/Jvoja](https://git.io/Jvoja) |
