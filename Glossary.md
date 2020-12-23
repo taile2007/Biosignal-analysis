@@ -401,6 +401,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | Photoplethysmography (PPG)          | quang biến tích ký           |                                              |
 | Physiology                          | Sinh lý học                  |                                              |
 | policy (in reinforcement learning)  | chính sách                   | [https://git.io/Jvoj9](https://git.io/Jvoj9) |
+| Polisomnography (PSG)               | Xét nghiệm đa ký giấc ngủ    |                                              |
 | pooling                             | gộp                          | [https://git.io/Jfe1I](https://git.io/Jfe1I) |
 | population                          | tổng thể                     | [https://git.io/Jvoja](https://git.io/Jvoja) |
 | position-wise feed-forward network  | mạng truyền xuôi theo vị trí |                                              |
