@@ -24,6 +24,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | analytical solution                   | nghiệm theo công thức     |                                              |
 | analogy                               | loại suy                  |                                              |
 | anchor box                            | khung neo                 |                                              |
+| apneal                                | ngưng thở                 |                                              |
 | approximate inference                 | suy luận gần đúng         |                                              |
 | approximate training                  | huấn luyện gần đúng       |                                              |
 | argument (in programming)             | đối số                    |                                              |
@@ -232,6 +233,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | hyperparameter          | siêu tham số             |                                                                                            |
 | hyperplane              | siêu phẳng               | [https://git.io/JvojD](https://git.io/JvojD)                                               |
 | hypothesis test         | kiểm định giả thuyết     | [https://git.io/Jvoja](https://git.io/Jvoja)                                               |
+| hyponea                 | giảm thở                 |                                                                                            |
 
 ## I
 | English                                     | Tiếng Việt                   | Thảo luận tại                                |
