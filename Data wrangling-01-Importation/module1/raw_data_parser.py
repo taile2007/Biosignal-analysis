@@ -48,7 +48,7 @@ class Paths_Info_Summary():
         :xuất kết quả là 1 pd.Series gồm tên pack và tên file
         """
         split_path = path.split(os.sep)
-        pack = split_path[3]
+        pack = split_path[-3]
         filename = split_path[-1]
         return pd.Series([pack, filename])
     
