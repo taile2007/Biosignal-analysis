@@ -250,7 +250,7 @@ class DataImporter():
             return None, None, None
 
         df_data = pd.DataFrame()
-        with open(raw_data_path, 'r') as file:
+        with open(raw_data_path, 'r', errors='ignore') as file:
             if n_lines:
                 lines = list(islice(file, n_lines))
             else:
