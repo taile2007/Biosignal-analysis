@@ -387,6 +387,8 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | p-value                             | trị số p                     | [https://git.io/Jvoja](https://git.io/Jvoja) |
 | padding                             | đệm                          | [https://git.io/Jfe1I](https://git.io/Jfe1I) |
 | Pathology                           | bệnh lý                      |                                              |
+| Parasympathetic nervous system      | hệ thống thần kinh phó       |                                              |
+|                                     | giao cảm                     |                                              |
 | partition function                  | hàm phân hoạch               | [https://git.io/JvQxE](https://git.io/JvQxE) |
 | pattern recognition                 | nhận dạng mẫu                | [https://git.io/JvKeL](https://git.io/JvKeL) |
 | penalty                             | lượng phạt                   | [https://git.io/JvQAP](https://git.io/JvQAP) |
@@ -508,6 +510,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | surrogate objective                 | mục tiêu thay thế                        | [https://git.io/JvQxV](https://git.io/JvQxV) |
 | switch                              | bộ chuyển mạch                           |                                              |
 | symbolic graph                      | đồ thị biểu tượng                        | [https://git.io/JvojU](https://git.io/JvojU) |
+| sympathetic nervous system          | hệ thống thần kinh giao cảm              |                                              |
 
 ## T
 | English                                | Tiếng Việt                                | Thảo luận tại                                |
