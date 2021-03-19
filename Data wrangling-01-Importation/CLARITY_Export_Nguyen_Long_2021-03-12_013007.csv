@@ -2,13 +2,13 @@
 1,,FirstName,,Long,,,,,,,,,
 2,,LastName,,Nguyen,,,,,,,,,
 3,,Device,,,Dexcom Receiver with G6,PG00804102,,,,,,,
-4,,Alert,Fall,,,PG00804102,,,,,3,
-5,,Alert,High,,,PG00804102,310,,,,,
-6,,Alert,Low,,,PG00804102,60,,,,,
-7,,Alert,Signal Loss,,,PG00804102,,,,00:20:00,,
-8,,Alert,Rise,,,PG00804102,,,,,3,
-9,,Alert,Urgent Low,,,PG00804102,55,,,,,
-10,,Alert,Urgent Low Soon,,,PG00804102,55,,,,,
+4,,Alert,Fall,,,PG00804102,,,,,3,,
+5,,Alert,High,,,PG00804102,310,,,,,,
+6,,Alert,Low,,,PG00804102,60,,,,,,
+7,,Alert,Signal Loss,,,PG00804102,,,,00:20:00,,,
+8,,Alert,Rise,,,PG00804102,,,,,3,,
+9,,Alert,Urgent Low,,,PG00804102,55,,,,,,
+10,,Alert,Urgent Low Soon,,,PG00804102,55,,,,,,
 11,2021-03-02T16:05:02,EGV,,,,PG00804102,116,,,,,2443273,8KMNYT
 12,2021-03-02T16:10:01,EGV,,,,PG00804102,108,,,,,2443573,8KMNYT
 13,2021-03-02T16:15:02,EGV,,,,PG00804102,100,,,,,2443873,8KMNYT
