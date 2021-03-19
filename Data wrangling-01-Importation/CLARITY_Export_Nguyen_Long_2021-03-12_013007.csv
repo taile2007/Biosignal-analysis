@@ -1,5 +1,5 @@
 ﻿Index,Timestamp (YYYY-MM-DDThh:mm:ss),Event Type,Event Subtype,Patient Info,Device Info,Source Device ID,Glucose Value (mg/dL),Insulin Value (u),Carb Value (grams),Duration (hh:mm:ss),Glucose Rate of Change (mg/dL/min),Transmitter Time (Long Integer),Transmitter ID
-1,,FirstName,,Long,,,,,,,,
+1,,FirstName,,Long,,,,,,,,,
 2,,LastName,,Nguyen,,,,,,,,
 3,,Device,,,Dexcom Receiver with G6,PG00804102,,,,,,
 4,,Alert,Fall,,,PG00804102,,,,,3,
