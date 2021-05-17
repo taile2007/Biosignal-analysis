@@ -178,6 +178,7 @@ bạn có thể mở một chủ đề thảo luận tại thẻ **[Discussions]
 | F1 score                      | chỉ số F1                                  |                                              |
 | false negative                | âm tính giả                                |                                              |
 | false positive                | dương tính giả                             |                                              |
+| fasting blood glucose         | đường huyết khi đói                        |                                              |
 | feature                       | đặc trưng                                  |                                              |
 | feature extraction            | trích xuất đặc trưng                       |                                              |
 | feature map (in CNN)          | ánh xạ đặc trưng                           |                                              |
